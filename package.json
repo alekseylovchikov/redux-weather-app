@@ -1,7 +1,7 @@
 {
   "name": "weather-redux-app",
   "version": "1.0.0",
-  "description": "github info",
+  "description": "weather app with react and redux",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src"
